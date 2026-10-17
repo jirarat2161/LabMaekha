@@ -1,0 +1,6 @@
+{
+  "name": "Mae Kha Lab Statistics",
+  "description": "ระบบแสดงสถิติและสรุปผลการดำเนินงานห้องปฏิบัติการทางการแพทย์ ศูนย์บริการสาธารณสุขและการแพทย์แม่ข่า เชื่อมต่อ Google Sheets",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
